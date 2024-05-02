@@ -32,7 +32,7 @@ export default function Aboutpage() {
             <h1 className="font-bold text-2xl">BIOGRAPHY</h1>
             {/* BIOGRAPHY DESC */}
             <p className="text-lg">
-            As a software engineer with a degree, and a reinvented office worker from Popayán, Cauca, Colombia, I've followed the call that 
+            As a software engineer with a degree, and a reinvented office worker from Popayán, Cauca, Colombia, Ive followed the call that 
             resonated within me since childhood: to be an inventor. From an early age, I knew I wanted to create, innovate, and turn ideas 
             into tangible realities. Despite starting on a more conventional path as an office worker, there came a time when I decided to 
             listen to that inner voice urging me to pursue my dreams. Today, I combine my technical background and my passion for innovation 

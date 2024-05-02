@@ -7,7 +7,7 @@ const Homepage = () => {
   return (
     <motion.div
       className="h-full"
-      initial={{ y: '-300vh' }}
+      initial={{ y: '-200vh' }}
       animate={{ y: '0%' }}
       transition={{ duration: 1 }}
     >
@@ -20,14 +20,14 @@ const Homepage = () => {
         <div className="h-1/2 lg:h-full lg:w-1/2 flex flex-col gap-8 items-center justify-center">
           {/* TITLE */}
           <h1 className="text-4xl md:text-6xl font-bold">
-            Crafting Digital experiences, Designing Tomorrow.
+          Shaping the Web, Engineering the Future.
           </h1>
           {/* DESC */}
           <p className=" md:text-xl">
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Itaque cum
-            sit veniam autem sequi ut est molestias eum ratione assumenda
-            aperiam ab placeat minus pariatur temporibus vel, reprehenderit
-            corrupti dolores.
+          As a junior full stack web developer, I bring freshness and dynamism to the design and development of web applications. 
+          My training includes a wide range of essential technologies for developing interactive user interfaces, backend management, 
+          and REST APIs. I also possess skills in database administration and other key tools that ensure efficient and meticulously 
+          organized development. I am deeply committed to my continuous professional development.
           </p>
 
           {/* BUTONS */}

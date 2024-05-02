@@ -32,17 +32,15 @@ export default function Aboutpage() {
             <h1 className="font-bold text-2xl">BIOGRAPHY</h1>
             {/* BIOGRAPHY DESC */}
             <p className="text-lg">
-              Lorem ipsum dolor sit amet consectetur, adipisicing elit. Culpa,
-              temporibus qui dignissimos quas neque asperiores dolorum velit
-              tempore quam iste natus explicabo consequuntur eaque ipsa earum
-              vero. Aliquid, aliquam dolore enim nisi minima dignissimos
-              repellendus soluta sint beatae dolorum. Labore odio qui delectus
-              unde harum accusamus, velit adipisci inventore exercitationem!
+            As a software engineer with a degree, and a reinvented office worker from Popayán, Cauca, Colombia, I've followed the call that 
+            resonated within me since childhood: to be an inventor. From an early age, I knew I wanted to create, innovate, and turn ideas 
+            into tangible realities. Despite starting on a more conventional path as an office worker, there came a time when I decided to 
+            listen to that inner voice urging me to pursue my dreams. Today, I combine my technical background and my passion for innovation 
+            to develop software solutions that not only solve problems but also inspire and transform the technological landscape.
             </p>
             {/* BIOGRAPHY QUOTE */}
             <span className="italic">
-              No llega a la meta quien intenta ir más rápido, sino quien intenta
-              disfrutar más del camino.
+            The one who tries to enjoy the journey is the one who ultimately reaches the goal, not the one who tries to go faster.
             </span>
 
             {/* BIOGRAPHY SIGN SVG */}
